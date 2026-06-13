@@ -1,6 +1,7 @@
 export interface VendorSkillMeta {
   official?: boolean
   source: string
+  skillsDir?: string // optional override for the skills directory, defaults to 'skills'
   skills: Record<string, string> // sourceSkillName -> outputSkillName
 }
 
