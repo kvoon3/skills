@@ -43,3 +43,12 @@
 [submodule "sources/nitro"]
 	path = sources/nitro
 	url = https://github.com/nitrojs/nitro
+[submodule "vendor/agent-browser"]
+	path = vendor/agent-browser
+	url = https://github.com/vercel-labs/agent-browser
+[submodule "vendor/obsidian-skills"]
+	path = vendor/obsidian-skills
+	url = https://github.com/kepano/obsidian-skills
+[submodule "vendor/ast-grep"]
+	path = vendor/ast-grep
+	url = https://github.com/ast-grep/agent-skill

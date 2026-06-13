@@ -66,6 +66,32 @@ export const vendors: Record<string, VendorSkillMeta> = {
       'web-design-guidelines': 'web-design-guidelines',
     },
   },
+  'agent-browser': {
+    official: true,
+    source: 'https://github.com/vercel-labs/agent-browser',
+    skills: {
+      'agent-browser': 'agent-browser',
+    },
+  },
+  'obsidian-skills': {
+    official: true,
+    source: 'https://github.com/kepano/obsidian-skills',
+    skills: {
+      'defuddle': 'defuddle',
+      'json-canvas': 'json-canvas',
+      'obsidian-bases': 'obsidian-bases',
+      'obsidian-cli': 'obsidian-cli',
+      'obsidian-markdown': 'obsidian-markdown',
+    },
+  },
+  'ast-grep': {
+    official: true,
+    source: 'https://github.com/ast-grep/agent-skill',
+    skillsDir: 'ast-grep/skills',
+    skills: {
+      'ast-grep': 'ast-grep',
+    },
+  },
 }
 
 /**

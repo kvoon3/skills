@@ -65,6 +65,13 @@ Synced from external repositories that maintain their own skills.
 | [vue-router-best-practices](skills/vue-router-best-practices) | Vue Router best practices | [vuejs-ai/skills](https://github.com/vuejs-ai/skills) |
 | [vue-testing-best-practices](skills/vue-testing-best-practices) | Vue testing best practices | [vuejs-ai/skills](https://github.com/vuejs-ai/skills) |
 | [web-design-guidelines](skills/web-design-guidelines) | Web design guidelines for building beautiful interfaces | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) |
+| [agent-browser](skills/agent-browser) | Browser automation CLI for AI agents — navigate, click, screenshot, scrape, test web apps | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) |
+| [ast-grep](skills/ast-grep) | Guide for writing ast-grep rules for structural code search and analysis | [ast-grep/agent-skill](https://github.com/ast-grep/agent-skill) |
+| [defuddle](skills/defuddle) | Extract clean markdown content from web pages using the Defuddle CLI | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) |
+| [json-canvas](skills/json-canvas) | Create and edit JSON Canvas (.canvas) files with nodes, edges, and groups | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) |
+| [obsidian-bases](skills/obsidian-bases) | Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) |
+| [obsidian-cli](skills/obsidian-cli) | Interact with Obsidian vaults via the Obsidian CLI | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) |
+| [obsidian-markdown](skills/obsidian-markdown) | Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, properties | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) |
 
 ## FAQ
 
