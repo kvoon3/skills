@@ -1,7 +1,7 @@
 export interface VendorSkillMeta {
   official?: boolean
   source: string
-  skillsDir?: string // optional override for the skills directory, defaults to 'skills'
+  skillsPath?: string // Optional custom path to skills directory (default: 'skills')
   skills: Record<string, string> // sourceSkillName -> outputSkillName
 }
 
@@ -87,7 +87,7 @@ export const vendors: Record<string, VendorSkillMeta> = {
   'ast-grep': {
     official: true,
     source: 'https://github.com/ast-grep/agent-skill',
-    skillsDir: 'ast-grep/skills',
+    skillsPath: 'ast-grep/skills',
     skills: {
       'ast-grep': 'ast-grep',
     },
@@ -99,5 +99,6 @@ export const vendors: Record<string, VendorSkillMeta> = {
  */
 export const manual = [
   'antfu',
+  'antfu-design',
   'rizumu',
 ]
